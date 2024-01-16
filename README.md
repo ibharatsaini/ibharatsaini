@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sainib601@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10YZ9CYojy9neRzNd2zLCk_JZjuwZM3TT/view?usp=share_link](https://drive.google.com/file/d/10YZ9CYojy9neRzNd2zLCk_JZjuwZM3TT/view?usp=share_link)
+- 📄 Know about my experiences [Software Engineer (MERN Stack) Resume.](https://drive.google.com/file/d/1FUm0Ko7Q1cOHSbFm6mDCwQTtQC0BIwRL/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
