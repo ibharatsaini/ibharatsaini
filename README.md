@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bharat Saini</h1>
-<h3 align="center">A passionate Full Stack(MERN) Developer from India</h3>
+<h3 align="center">A passionate Full Stack(MERN) Developer from Delhi, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibharatsaini&label=Profile%20views&color=0e75b6&style=flat" alt="ibharatsaini" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sainib601@gmail.com**
 
-- 📄 Know about my experiences [Software Engineer (MERN Stack) Resume.](https://drive.google.com/file/d/1FUm0Ko7Q1cOHSbFm6mDCwQTtQC0BIwRL/view?usp=sharing)
+- 📄 Know about my experiences [Software Engineer (MERN Stack) Resume.](https://drive.google.com/file/d/1s1k7ZsSmvkYzXHmlI34sR4YtSbhrvRO7/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
