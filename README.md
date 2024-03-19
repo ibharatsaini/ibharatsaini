@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibharatsaini&label=Profile%20views&color=0e75b6&style=flat" alt="ibharatsaini" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibharatsaini" alt="ibharatsaini" /></a> </p>
-
 - 🔭 I’m currently working on [Movie Ticket Booking](https://movieticket-booking.cyclic.app/)
 
 - 🌱 I’m currently learning **Jest, Babel.**
