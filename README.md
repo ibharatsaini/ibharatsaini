@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibharatsaini&label=Profile%20views&color=0e75b6&style=flat" alt="ibharatsaini" /> </p>
 
-- 🔭 I’m currently working on [Movie Ticket Booking](https://movieticket-booking.cyclic.app/)
+- 🔭 I’m currently building [CodeIQ](https://codeiq.vercel.app/)
 
 - 🌱 I’m currently learning **Jest, Babel.**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sainib601@gmail.com**
 
-- 📄 Know about my experiences [Software Engineer (MERN Stack) Resume.](https://drive.google.com/file/d/1s1k7ZsSmvkYzXHmlI34sR4YtSbhrvRO7/view?usp=sharing)
+- 📄 Know about me [here](https://bharatsaini.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
