@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibharatsaini&label=Profile%20views&color=0e75b6&style=flat" alt="ibharatsaini" /> </p>
 
-- 🔭 I’m currently building [CodeIQ](https://codeiq.vercel.app/)
-
-- 🌱 I’m currently learning **Jest, Babel.**
+- 🔭 I’m currently building [Automiq](https://automiq-workflow.vercel.app/) [CodeIQ](https://codeiq.vercel.app/)
 
 - 👨‍💻 All of my projects are available at my profile.
 
